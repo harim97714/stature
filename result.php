@@ -4,7 +4,7 @@
 	<meta charset = "utf-8" />
 	<title>예상 키 계산하기</title>
 	<meta charset="utf-8" />
-	<link rel="stylesheet" type="text/css" href="/style.css">
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 	<hr>
 	<?
