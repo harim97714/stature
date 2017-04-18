@@ -1,5 +1,5 @@
 ﻿<!DOCTYPE HTML5>
-<html lang='ko' xmlns="http://www.w3.org/1999/xhtml">
+<html lang='ko'>
 <head>
 	<meta charset = "utf-8" />
 	<title>예상 키 계산하기</title>
