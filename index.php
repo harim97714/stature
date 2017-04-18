@@ -6,6 +6,7 @@
 	<meta charset="utf-8" />
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
+<body>
 	<hr>
 	<form action="result.php" method="get">
 		성별: <select name="sex">

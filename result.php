@@ -6,6 +6,7 @@
 	<meta charset="utf-8" />
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
+<body>
 	<hr>
 	<?
 		if($_GET['sex'] == null || $_GET['f_stature'] == null || $_GET['m_stature'] == null) {
